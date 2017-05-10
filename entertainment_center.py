@@ -19,7 +19,7 @@ def main():
 
     johnwick = media.Movie("John Wick",
                            "An ex-hitman comes out of retirement to track down the gangsters that took everything from him.",
-                           "https://s-media-cache-ak0.pinimg.com/originals/a1/d0/69/a1d069c9c4461577a6e93d792cc123ba.jpg",
+                           "https://s-media-cache-ak0.pinimg.com/originals/a1/d0/69/a1d069c9c4461577a6e93d792cc123ba.jpg", # noqa
                            "https://www.youtube.com/watch?v=2AUmvWm5ZDQ",
                            "October 24, 2014")
 
